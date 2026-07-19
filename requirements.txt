@@ -1,0 +1,9 @@
+pandas
+numpy
+pyarrow
+scikit-learn
+rank_bm25
+pymorphy3
+torch
+transformers
+sentence-transformers

@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+*.pyc
+solution/models/
+solution/cache/
+solution/solution/
+.DS_Store
+dataset_2466955_4.txt
